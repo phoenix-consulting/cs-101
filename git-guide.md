@@ -1,7 +1,7 @@
 # An Introduction to Git
 Woohoo y'all get a custom introduction to how to use Git and GitHub!
 
-[Christopher Zou](chriswzou.github.io), 11/2021
+[Christopher Zou](https://chriswzou.github.io), 11/2021
 
 ## What is Git?
 You know how you can hit save, undo, and redo things when you're working in Microsoft Word? 
